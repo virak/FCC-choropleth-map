@@ -1,0 +1,15 @@
+body {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+#title {
+  text-align: center;  
+  margin-top: 15px;
+}
+
+#description {
+  text-align: center;
+  font-size: 16px;
+  margin-top: 10px;
+}
